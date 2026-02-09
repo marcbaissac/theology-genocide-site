@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La vie de Jésus et la glorification du Seigneur on Theology &amp; The Silent Genocide</title>
+    <link>http://localhost:1313/glorification/</link>
+    <description>Recent content in La vie de Jésus et la glorification du Seigneur on Theology &amp; The Silent Genocide</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Tue, 20 Jan 2026 22:00:34 +0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/glorification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>01 Overview</title>
+      <link>http://localhost:1313/glorification/01-overview/</link>
+      <pubDate>Tue, 20 Jan 2026 22:00:34 +0400</pubDate>
+      <guid>http://localhost:1313/glorification/01-overview/</guid>
+      <description>&lt;p&gt;I. Introduction&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
