@@ -2,48 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/silent-genocide/01-introduction/</loc>
+    <loc>https://example.org/docs/section-index/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/glorification/01-overview/</loc>
+    <loc>https://example.org/docs/silent-genocide/01-introduction/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/</loc>
+    <loc>https://example.org/docs/glorification/01-introduction/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/glorification/</loc>
+    <loc>https://example.org/docs/glorification/02.-qui-est-j%C3%A9sus/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/silent-genocide/</loc>
+    <loc>https://example.org/docs/glorification/03.-la-parole-faite-chair/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/2026-01-first-note-on-glorification/</loc>
+    <loc>https://example.org/docs/</loc>
+  </url><url>
+    <loc>https://example.org/docs/glorification/</loc>
+  </url><url>
+    <loc>https://example.org/docs/silent-genocide/</loc>
+  </url><url>
+    <loc>https://example.org/posts/2026-01-first-note-on-glorification/</loc>
     <lastmod>2026-01-20T22:07:53+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://example.org/posts/</loc>
     <lastmod>2026-01-20T22:07:53+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2026-01-20T22:07:53+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2026-01-first-reflection-on-glorification/</loc>
+    <loc>https://example.org/posts/2026-01-first-reflection-on-glorification/</loc>
     <lastmod>2026-01-20T22:00:49+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glorification/01-overview/</loc>
+    <loc>https://example.org/glorification/01-overview/</loc>
     <lastmod>2026-01-20T22:00:34+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/silent-genocide/03-boarding-schools/</loc>
+    <loc>https://example.org/silent-genocide/03-boarding-schools/</loc>
     <lastmod>2026-01-20T21:59:41+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/silent-genocide/02-pre-colonial-context/</loc>
+    <loc>https://example.org/silent-genocide/02-pre-colonial-context/</loc>
     <lastmod>2026-01-20T21:59:26+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/silent-genocide/01-introduction/</loc>
+    <loc>https://example.org/silent-genocide/01-introduction/</loc>
     <lastmod>2026-01-20T21:59:10+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/silent-genocide/</loc>
+    <loc>https://example.org/silent-genocide/</loc>
     <lastmod>2026-01-20T21:23:58+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/glorification/</loc>
+    <loc>https://example.org/glorification/</loc>
     <lastmod>2026-01-20T21:23:43+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Theology &amp; The Silent Genocide</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on Theology &amp; The Silent Genocide</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 20 Jan 2026 22:07:53 +0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2026 01 First Note on Glorification</title>
-      <link>http://localhost:1313/posts/2026-01-first-note-on-glorification/</link>
+      <link>https://example.org/posts/2026-01-first-note-on-glorification/</link>
       <pubDate>Tue, 20 Jan 2026 22:07:53 +0400</pubDate>
-      <guid>http://localhost:1313/posts/2026-01-first-note-on-glorification/</guid>
+      <guid>https://example.org/posts/2026-01-first-note-on-glorification/</guid>
       <description></description>
     </item>
     <item>
       <title>2026 01 First Reflection on Glorification</title>
-      <link>http://localhost:1313/posts/2026-01-first-reflection-on-glorification/</link>
+      <link>https://example.org/posts/2026-01-first-reflection-on-glorification/</link>
       <pubDate>Tue, 20 Jan 2026 22:00:49 +0400</pubDate>
-      <guid>http://localhost:1313/posts/2026-01-first-reflection-on-glorification/</guid>
+      <guid>https://example.org/posts/2026-01-first-reflection-on-glorification/</guid>
       <description></description>
     </item>
   </channel>
