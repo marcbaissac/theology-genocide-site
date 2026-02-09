@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Glorification on Theology &amp; The Silent Genocide</title>
-    <link>https://example.org/docs/glorification/</link>
+    <link>https://marcbaissac.github.io/theology-genocide-site/docs/glorification/</link>
     <description>Recent content in Glorification on Theology &amp; The Silent Genocide</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <atom:link href="https://example.org/docs/glorification/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marcbaissac.github.io/theology-genocide-site/docs/glorification/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
